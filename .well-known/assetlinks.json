@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.shiftcontrol.porlis",
+      "sha256_cert_fingerprints": ["67:B2:9F:FB:95:05:2A:4C:7D:FD:4D:FE:E5:F1:CF:49:E8:2D:25:5E:A9:18:1B:13:57:5E:04:E0:4B:07:C2:10"]
+    }
+  }
+]

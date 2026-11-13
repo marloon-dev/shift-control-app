@@ -1,0 +1,10 @@
+{
+  "versao": "2026.11.13-0ba8bd5",
+  "url": "https://marloon-dev.github.io/shift-control-app/ota/app-2026.11.13-0ba8bd5.zip",
+  "minApk": 100,
+  "apk": {
+    "versionCode": 102,
+    "versionName": "2.0.2",
+    "url": "https://marloon-dev.github.io/shift-control-site/shift-control.apk"
+  }
+}
